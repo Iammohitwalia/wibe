@@ -135,7 +135,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Code Studio
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -176,7 +176,7 @@ const Footer = () => {
             data-scroll-speed="2"
             data-scroll-direction="horizontal"
           >
-            &copy; 2022. All Rights Reserved.
+            &copy; 2024. All Rights Reserved.
           </span>
           <span
             data-scroll
@@ -185,11 +185,11 @@ const Footer = () => {
           >
             Made with &hearts; by{" "}
             <a
-              href="http://devdreaming.com"
+              href="http://mohitwalia.netlify.app"
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              mohitwalia
             </a>
           </span>
         </Bottom>
